@@ -1,0 +1,17 @@
+{
+  "name": "importing-npm-modules",
+  "version": "1.0.0",
+  "description": "importing modules from  npm ",
+  "main": "index.js",
+  "dependencies": {
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "author": "Md Mahmudul Hassan",
+  "license": "ISC"
+}
